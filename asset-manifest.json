@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pwc/static/css/main.9c5bb0cd.chunk.css",
+    "main.js": "/react-pwc/static/js/main.20feb1b3.chunk.js",
+    "main.js.map": "/react-pwc/static/js/main.20feb1b3.chunk.js.map",
+    "runtime-main.js": "/react-pwc/static/js/runtime-main.41566437.js",
+    "runtime-main.js.map": "/react-pwc/static/js/runtime-main.41566437.js.map",
+    "static/js/2.0b5c82a1.chunk.js": "/react-pwc/static/js/2.0b5c82a1.chunk.js",
+    "static/js/2.0b5c82a1.chunk.js.map": "/react-pwc/static/js/2.0b5c82a1.chunk.js.map",
+    "static/js/3.a6143fb4.chunk.js": "/react-pwc/static/js/3.a6143fb4.chunk.js",
+    "static/js/3.a6143fb4.chunk.js.map": "/react-pwc/static/js/3.a6143fb4.chunk.js.map",
+    "index.html": "/react-pwc/index.html",
+    "static/css/main.9c5bb0cd.chunk.css.map": "/react-pwc/static/css/main.9c5bb0cd.chunk.css.map",
+    "static/js/2.0b5c82a1.chunk.js.LICENSE.txt": "/react-pwc/static/js/2.0b5c82a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41566437.js",
+    "static/js/2.0b5c82a1.chunk.js",
+    "static/css/main.9c5bb0cd.chunk.css",
+    "static/js/main.20feb1b3.chunk.js"
+  ]
+}
